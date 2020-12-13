@@ -43,8 +43,10 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi there!
 
-  My name is Yeser Alfredo Morales, an electronics engineer at the University national of Engineering in Nicaragua, Since 2017 I see the potential of ROS like all that an entrepreneur Roboticist needs to make a career in Robotics.    - Lists
+  My name is Yeser Alfredo Morales, an electronics engineer at the University national of Engineering in Nicaragua, Since 2017 I see the potential of ROS like all that an entrepreneur Roboticist needs to make a career in Robotics.   
+  
   Tesis Work: “Virtual laboratory for industrial robotics using ROS middleware and compatible tools”.
+  
   Ask me about: Kinematics Robotics using KDL, Pluging of Rviz - ROS, And Computer Vision using OpenCV
   
     - Tables
