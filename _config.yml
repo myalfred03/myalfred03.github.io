@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: myalfred03/myalfred03.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -11,12 +11,11 @@ title: Automation Engineer
 email: myalfredo03@ieee.org
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
 website: myalfredo03.wordpress.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: myalfred03
