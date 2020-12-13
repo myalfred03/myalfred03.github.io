@@ -41,10 +41,12 @@ linkedin_username: myalfredo03
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi there!
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
+  My name is Yeser Alfredo Morales, an electronics engineer at the University national of Engineering in Nicaragua, Since 2017 I see the potential of ROS like all that an entrepreneur Roboticist needs to make a career in Robotics.    - Lists
+  Tesis Work: “Virtual laboratory for industrial robotics using ROS middleware and compatible tools”.
+  Ask me about: Kinematics Robotics using KDL, Pluging of Rviz - ROS, And Computer Vision using OpenCV
+  
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/me.jpg "CR")
