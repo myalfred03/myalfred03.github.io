@@ -58,7 +58,7 @@ content:
   - title: Work Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: DIVERSA - ESD
         sub_title: Electronic Systems Development Internship
         caption: (March - July 2018)
@@ -68,7 +68,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Programming microcontrollers using C. 
           - Development of PCB boards
-      - layout: right
+      - layout: left
         title: TECNODIAGNOSTICA S.A.
         sub_title: Technical support engineer
         caption: (February - September 2019)
@@ -77,7 +77,7 @@ content:
           Integral solutions for laboratories
         description: | # this will include new lines to allow paragraphs
           - Support engineer for specialized medicine systems and equipment. 
-      - layout: right
+      - layout: left
         title: SCISA
         sub_title: Automation Specialist
         caption: (September 2019 - August 2020)
@@ -87,7 +87,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Automation project development and programming engineer.
           - Programming of control systems, usually using Siemens and Allen Bradley PLCs.
-      - layout: right
+      - layout: left
         title: Bluefields Technologies S.A
         sub_title: Technical support enginee
         caption: (August 2020 - Present)
