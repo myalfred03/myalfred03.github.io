@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Yeser Alfredo Morales
-title: Automation Engineer
+title: Electronic Engineer
 email: myalfredo03@ieee.org
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
@@ -54,24 +54,34 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/me.jpg "CR")
 
 content:
-  - title: Projects # Title for the section
+  - title: Academic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Electrocardiograph data logger with wireless communication to computer
+        link: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
+        link_text: EKG
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
+        quote: >
+          Short overview of the project
+        description: | # this will include new lines to allow paragraphs
+          Electrocardiograph capable of recording and transmitting data, using the Bluetooth communication protocol, to a computer. Microcontroller technology was used to implement the electrocardiograph and LABVIEW to develop the program to receive and process data in order to show the electrocardiogram in the computer screen. Data are stored in an EEPROM memory for further analysis. 
+      - layout: left
+        title: Electrocardiograph data logger with wireless communication to computer
+        link: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
+        link_text: EKG
+        additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
         quote: >
-          Short overview of the project (optional)
+          Short overview of the project
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Electrocardiograph capable of recording and transmitting data, using the Bluetooth communication protocol, to a computer. Microcontroller technology was used to implement the electrocardiograph and LABVIEW to develop the program to receive and process data in order to show the electrocardiogram in the computer screen. Data are stored in an EEPROM memory for further analysis. 
+    
   - title: Experience
     layout: list
     content:
