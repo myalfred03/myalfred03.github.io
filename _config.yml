@@ -45,11 +45,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   My name is Yeser Alfredo Morales, an electronics engineer at the University national of Engineering in Nicaragua, Since 2017 I see the potential of ROS like all that an entrepreneur Roboticist needs to make a career in Robotics.   
     
-  Ask me about: Kinematics Robotics using KDL, Pluging of Rviz - ROS, Computer Vision using OpenCV and Backend Web.
+  Ask me about: Kinematics Robotics using KDL, Pluging of Rviz - ROS, Computer Vision using OpenCV, PLC Siemens and Backend Web.
   
-  Programming Languages:  <mark>C/C++</mark>, <mark>Python</mark>, <mark>JavaScript</mark>
+  Programming Languages:  <mark>C/C++</mark>, <mark>Python</mark>, <mark>PLC ladder</mark>, <mark>JavaScript</mark>
   
-  Skills: <mark>Robotics</mark>, <mark>Computer Vision</mark>, <mark>Backend Web</mark>, <mark>Data Scraping</mark>
+  Skills: <mark>Robotics</mark>, <mark>Computer Vision</mark>, <mark>PLC Automation</mark>, <mark>Backend Web</mark>, <mark>Data Scraping</mark>
   
   ![alt text](/images/2me.jpg "CR") ![alt text](/images/me3.jpg "CR") ![alt text](/images/4me.jpg "HND") 
 
@@ -61,13 +61,48 @@ content:
       - layout: right
         title: DIVERSA - ESD
         sub_title: Electronic Systems Development Internship
-        caption: March - July 2018)
+        caption: (March - July 2018)
         link: https://www.diversa-esd.com/
         quote: >
           Created to develop the appropriate system to solve your problem.
         description: | # this will include new lines to allow paragraphs
           - Programming microcontrollers using C. 
           - Development of PCB boards
+    layout: list
+    content:
+      - layout: right
+        title: TECNODIAGNOSTICA S.A.
+        sub_title: Technical support engineer
+        caption: (February - September 2019)
+        link: http://tecnodiagnostica.com/
+        quote: >
+          Integral solutions for laboratories
+        description: | # this will include new lines to allow paragraphs
+          - Support engineer for specialized medicine systems and equipment. 
+    layout: list
+    content:
+      - layout: right
+        title: SCISA
+        sub_title: Automation Specialist
+        caption: (September - August 2020)
+        link: http://scisa.com.ni/
+        quote: >
+          Engineering designs and industrial automation
+        description: | # this will include new lines to allow paragraphs
+          - Automation project development and programming engineer.
+          - Programming of control systems, usually using Siemens and Allen Bradley PLCs.
+    layout: list
+    content:
+      - layout: right
+        title: Bluefields Technologies S.A
+        sub_title: Technical support enginee
+        caption: (August 2020 - Present)
+        link: -
+        quote: >
+          Engineering designs and industrial automation
+        description: | # this will include new lines to allow paragraphs
+          - Support engineer for specialized equipment on x-ray detection systems.
+          - IT Support engineer.
           
   - title: Academic Projects # Title for the section
     layout: list # Type of content section (list/text)
