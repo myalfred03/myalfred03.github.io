@@ -97,7 +97,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Support engineer for specialized equipment on x-ray detection systems.
           - IT Support engineer.
-          
+      - layout: left
+        title: LOKAFY
+        sub_title: Freelance Backend developer
+        caption: (January 2021 - Present)
+        link: https://lokafy.com/
+        quote: >
+          Bring the World Closer Together
+        description: | # this will include new lines to allow paragraphs
+          - API Development using Sails and Django.
+          - Data scraping
   - title: Academic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
