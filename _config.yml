@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   
     - Tables
     - <a href="google.com">Links</a>
-    - Images ![alt text](/images/me.jpg "CR")
+    - Images ![alt text](/images/me2.jpg "CR")
 
 content:
   - title: Academic Projects # Title for the section
@@ -81,7 +81,7 @@ content:
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
           Electrocardiograph capable of recording and transmitting data, using the Bluetooth communication protocol, to a computer. Microcontroller technology was used to implement the electrocardiograph and LABVIEW to develop the program to receive and process data in order to show the electrocardiogram in the computer screen. Data are stored in an EEPROM memory for further analysis. 
-    
+        image: ![alt text](/images/EKG.jpg "CR")
   - title: Experience
     layout: list
     content:
