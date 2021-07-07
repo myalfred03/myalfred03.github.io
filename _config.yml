@@ -55,6 +55,19 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
+  - title: Work Experience
+    layout: text
+    content:
+      - layout: right
+        title: DIVERSA - ESD
+        sub_title: Electronic Systems Development Internship
+        caption: March - July 2018)
+        link: https://www.diversa-esd.com/
+        quote: >
+          Created to develop the appropriate system to solve your problem.
+        description: | # this will include new lines to allow paragraphs
+          Programming microcontrollers using C. | Development of PCB boards
+          
   - title: Academic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -82,18 +95,6 @@ content:
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
           Electrocardiograph capable of recording and transmitting data, using the Bluetooth communication protocol, to a computer. Microcontroller technology was used to implement the electrocardiograph and LABVIEW to develop the program to receive and process data in order to show the electrocardiogram in the computer screen. Data are stored in an EEPROM memory for further analysis. 
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: Education
     layout: list
     content:
