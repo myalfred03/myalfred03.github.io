@@ -106,9 +106,12 @@ content:
         link: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
         link_text: EKG
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
             url: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
+          - title:  Repo page for project
+            icon: fas fa-atlas
+            url: https://revistas.usac.edu.gt/index.php/cytes/article/view/297
         quote: >
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
