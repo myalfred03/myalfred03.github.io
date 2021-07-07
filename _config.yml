@@ -56,8 +56,8 @@ content:
   - title: Academic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
-        title: Electrocardiograph data logger with wireless communication to computer
+      - layout: left
+        title: Electrocardiograph
         link: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
         link_text: EKG
         additional_links:
