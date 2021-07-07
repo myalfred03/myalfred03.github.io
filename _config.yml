@@ -49,7 +49,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   Ask me about: Kinematics Robotics using KDL, Pluging of Rviz - ROS, And Computer Vision using OpenCV
   
-  ![alt text](/images/me2.jpg "CR") 
+  ![alt text](/images/me2.jpg "CR") ![alt text](/images/me3.jpg "CR") 
+
 
 content:
   - title: Academic Projects # Title for the section
