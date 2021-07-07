@@ -49,15 +49,13 @@ about_content: | # this will include new lines to allow paragraphs
   
   Ask me about: Kinematics Robotics using KDL, Pluging of Rviz - ROS, And Computer Vision using OpenCV
   
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/me2.jpg "CR")
+  ![alt text](/images/me2.jpg "CR") 
 
 content:
   - title: Academic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: Electrocardiograph data logger with wireless communication to computer
         link: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
         link_text: EKG
@@ -81,7 +79,6 @@ content:
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
           Electrocardiograph capable of recording and transmitting data, using the Bluetooth communication protocol, to a computer. Microcontroller technology was used to implement the electrocardiograph and LABVIEW to develop the program to receive and process data in order to show the electrocardiogram in the computer screen. Data are stored in an EEPROM memory for further analysis. 
-        image: ![alt text](/images/EKG.jpg "CR")
   - title: Experience
     layout: list
     content:
