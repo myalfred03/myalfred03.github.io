@@ -68,8 +68,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Programming microcontrollers using C. 
           - Development of PCB boards
-    layout: list
-    content:
       - layout: right
         title: TECNODIAGNOSTICA S.A.
         sub_title: Technical support engineer
@@ -79,8 +77,6 @@ content:
           Integral solutions for laboratories
         description: | # this will include new lines to allow paragraphs
           - Support engineer for specialized medicine systems and equipment. 
-    layout: list
-    content:
       - layout: right
         title: SCISA
         sub_title: Automation Specialist
@@ -91,8 +87,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Automation project development and programming engineer.
           - Programming of control systems, usually using Siemens and Allen Bradley PLCs.
-    layout: list
-    content:
       - layout: right
         title: Bluefields Technologies S.A
         sub_title: Technical support enginee
