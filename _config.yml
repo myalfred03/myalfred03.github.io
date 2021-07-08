@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   <i class="fas fa-laptop-code"></i> Programming Languages:  <mark>C/C++</mark>, <mark>Python</mark>, <mark>PLC ladder</mark>, <mark>JavaScript</mark>
   
-  <i class="fas fa-user-astronaut"></i> Skills: <mark>Robotics</mark>, <mark>Computer Vision</mark>, <mark>PLC Automation</mark>, <mark>Backend Web</mark>, <mark>Data Scraping</mark>
+  <i class="fas fa-user-astronaut"></i> Skills: <mark>Linux</mark>, <mark>Robotics</mark>, <mark>Computer Vision</mark>, <mark>PLC Automation</mark>, <mark>Backend Web</mark>, <mark>Data Scraping</mark>
   
   ![alt text](/images/meall.PNG "CR")
 
@@ -124,7 +124,7 @@ content:
         quote: >
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
-          Electrocardiograph capable of recording and transmitting data, using the Bluetooth communication protocol, to a computer. Microcontroller technology was used to implement the electrocardiograph and LABVIEW to develop the program to receive and process data in order to show the electrocardiogram in the computer screen. Data are stored in an EEPROM memory for further analysis. 
+          Electrocardiograph capable of recording and transmitting data, using the Bluetooth communication protocol, to a computer. Microcontroller technology was used to implement the electrocardiograph and LABVIEW to develop the program to receive and process data in order to show the electrocardiogram in the computer screen. Data are stored in an EEPROM memory for further analysis. <mark>2nd place project automation category.</mark> in <mark>TECNO – UNI</mark> 
       - layout: left
         title: Virtual laboratory of Robotics
         link: https://github.com/myalfred03/rvizglabre/
@@ -139,7 +139,7 @@ content:
         quote: >
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
-          The laboratory was developed with the Robotic Operating System (ROS) as its fundamental element, which has become a de facto standard for professionals dedicated to the development of robotic systems. ROS has many software tools and simulators that allow the analysis of a robotic application, whether it is real or simulated.
+          The laboratory was developed with the Robotic Operating System (ROS) as its fundamental element, which has become a de facto standard for professionals dedicated to the development of robotic systems. ROS has many software tools and simulators that allow the analysis of a robotic application, whether it is real or simulated. <mark>1st place Best international project.</mark> in <mark>Second Technological Week Honduras</mark>
   - title: Education
     layout: list
     content:
@@ -150,12 +150,25 @@ content:
         quote: >
           Universidad Nacional de Ingeniería
         description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title:  ANI
+        sub_title: English Technical and intermediate competence.
+        caption: (2017)
+        quote: >
+          Academia de idiomas
+        description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title:  EDx
+        sub_title: Introduction to Cloud Infrastructure Technologies
+        caption: (2019)
+        quote: >
+          The Linux Foundation
+        description: | # this will include new lines to allow paragraphs
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      I enjoy reading books with futuristic concepts, classic science fiction, I like to learn about astronomy every day, currently I have my own telescope. The concept that we are: "speck of dust suspended in a ray of sunlight" teaches me humility.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
