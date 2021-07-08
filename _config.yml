@@ -126,17 +126,20 @@ content:
         description: | # this will include new lines to allow paragraphs
           Electrocardiograph capable of recording and transmitting data, using the Bluetooth communication protocol, to a computer. Microcontroller technology was used to implement the electrocardiograph and LABVIEW to develop the program to receive and process data in order to show the electrocardiogram in the computer screen. Data are stored in an EEPROM memory for further analysis. 
       - layout: left
-        title: Electrocardiograph data logger with wireless communication to computer
-        link: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
-        link_text: EKG
+        title: Virtual laboratory of Robotics
+        link: https://github.com/myalfred03/rvizglabre/
+        link_text: LVR
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
-            url: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
+            url: https://github.com/myalfred03/rvizglabre
+          - title:  Repo page for project
+            icon: fas fa-atlas
+            url: http://ribuni.uni.edu.ni/3038/ 
         quote: >
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
-          Electrocardiograph capable of recording and transmitting data, using the Bluetooth communication protocol, to a computer. Microcontroller technology was used to implement the electrocardiograph and LABVIEW to develop the program to receive and process data in order to show the electrocardiogram in the computer screen. Data are stored in an EEPROM memory for further analysis. 
+          The laboratory was developed with the Robotic Operating System (ROS) as its fundamental element, which has become a de facto standard for professionals dedicated to the development of robotic systems. ROS has many software tools and simulators that allow the analysis of a robotic application, whether it is real or simulated.
   - title: Education
     layout: list
     content:
