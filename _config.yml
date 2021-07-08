@@ -15,7 +15,7 @@ website: myalfredo03.wordpress.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: myalfred03
