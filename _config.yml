@@ -167,8 +167,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I enjoy reading books with futuristic concepts, classic science fiction, I like to learn about astronomy every day, currently I have my own telescope. The concept that we are: "speck of dust suspended in a ray of sunlight" teaches me humility.
-
+      I enjoy reading books with futuristic concepts and classic science fiction. I like to learn about astronomy every day, currently I have my own telescope. The concept that we are: *"Speck of dust suspended in a ray of sunlight"* teaches me humility.
 
 # Footer
 footer_show_references: true
