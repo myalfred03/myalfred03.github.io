@@ -47,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
     
   Ask me about: Kinematics Robotics using KDL, Pluging of Rviz - ROS, Computer Vision using OpenCV, PLC Siemens and Backend Web.
   
-  Programming Languages:  <mark>C/C++</mark>, <mark>Python</mark>, <mark>PLC ladder</mark>, <mark>JavaScript</mark>
+  <i class="fas fa-laptop-code"></i> Programming Languages:  <mark>C/C++</mark>, <mark>Python</mark>, <mark>PLC ladder</mark>, <mark>JavaScript</mark>
   
   Skills: <mark>Robotics</mark>, <mark>Computer Vision</mark>, <mark>PLC Automation</mark>, <mark>Backend Web</mark>, <mark>Data Scraping</mark>
   
