@@ -143,14 +143,13 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+      - layout: left
+        title:  UNI
+        sub_title: Electronics engineer
+        caption: (2013 - 2017)
         quote: >
-          Short institution or course description (optional)
+          Universidad Nacional de Ingeniería
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
