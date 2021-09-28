@@ -164,6 +164,13 @@ content:
         quote: >
           The Linux Foundation
         description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title:  AWS Cloud Practitioner
+        sub_title: AWS Cloud concepts, core AWS services, security, architecture, pricing, and support
+        caption: (2021)
+        quote: >
+          aws.training
+        description: | # this will include new lines to allow paragraphs
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
