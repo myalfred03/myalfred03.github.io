@@ -8,9 +8,9 @@ version: 2
 # Personal info
 name: Yeser Alfredo Morales
 title: Electronic Engineer
-email: myalfredo03@ieee.org
+email: myalfredo03@gmail.com
 # email_title: Email (Email title override)
-#phone: Your phone number (optional)
+phone: +505 89166538
 website: myalfredo03.wordpress.com
 # website_title: Web (Website title override)
 
@@ -39,17 +39,17 @@ linkedin_username: myalfredo03
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/me2.jpg
+about_profile_image: images/YM.png
 about_content: | # this will include new lines to allow paragraphs
   Hi there!
 
-  My name is Yeser Alfredo Morales, an electronics engineer at the University national of Engineering in Nicaragua, Since 2017 I see the potential of ROS like all that an entrepreneur Roboticist needs to make a career in Robotics.   
+  My name is Yeser Alfredo Morales, Engineer passionate about making a career in industrial IoT, as an electronic engineer I have also worked in technical support / engineering / IT.
     
-  <i class="far fa-lightbulb"></i> Ask me about: Kinematics Robotics using KDL, Pluging of Rviz - ROS, Computer Vision using OpenCV, PLC Siemens and Backend Web.
+  <i class="far fa-lightbulb"></i> Ask me about: Pluging of Rviz - ROS, Computer Vision using OpenCV, PLC Siemens, Backend Web, Linux, and Open Source Software.
   
   <i class="fas fa-laptop-code"></i> Programming Languages:  <mark>C/C++</mark>, <mark>Python</mark>, <mark>PLC ladder</mark>, <mark>JavaScript</mark>
   
-  <i class="fas fa-user-astronaut"></i> Skills: <mark>Linux</mark>, <mark>Robotics</mark>, <mark>Computer Vision</mark>, <mark>PLC Automation</mark>, <mark>Backend Web</mark>, <mark>Data Scraping</mark>
+  <i class="fas fa-user-astronaut"></i> Skills: <mark>Linux</mark>, <mark>Robotics</mark>, <mark>Computer Vision</mark>, <mark>PLC Automation</mark>, <mark>Backend Web</mark>, <mark>Data Scraping</mark>, <mark>Support Engineer</mark> <mark>Physical Network</mark> 
   
   ![alt text](/images/2meall.PNG "CR")
 
