@@ -1,26 +1,26 @@
 # Site
-repository: myalfred03/myalfred03.github.io
+repository:  Gerard-170/Gera117.github.io 
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Yeser Alfredo Morales
+name: Gerardo Huerta Robles
 title: Electronic Engineer
-email: myalfredo03@gmail.com
+email: gerardohuerta1705@gmail.com
 # email_title: Email (Email title override)
-phone: +505 89166538
-website: myalfredo03.wordpress.com
+phone: +505 58073860
+website: N/A
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
-twitter_username: myalfred03
-github_username:  myalfred03
-linkedin_username: myalfredo03
+twitter_username: RoblenHuerta
+github_username:  Gerard-170
+linkedin_username: Gerardo Huerta Robles
 
 # Additional icon links
 #additional_links:
@@ -39,19 +39,19 @@ linkedin_username: myalfredo03
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/YM.png
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi there!
 
-  My name is Yeser Alfredo Morales, Engineer passionate about making a career in industrial IoT, as an electronic engineer I have also worked in technical support / engineering / IT.
+  My name is Gerardo Huerta Robles, Engineer passionate about making a career in IT, as an electronic engineer I have also worked in technical support / engineering.
     
-  <i class="far fa-lightbulb"></i> Ask me about: Pluging of Rviz - ROS, Computer Vision using OpenCV, PLC Siemens, Backend Web, Linux, Open Source Software, Computer Network Routing.
+  <i class="far fa-lightbulb"></i> Ask me about: Networking, Cybersecurity and DataCenter Solutions, I'm also interested on Embedded Systems and ML, DL.
   
-  <i class="fas fa-laptop-code"></i> Programming Languages:  <mark>C/C++</mark>, <mark>MATLAB</mark>, <mark>Python</mark>, <mark>PLC ladder</mark>, <mark>JavaScript</mark>
+  <i class="fas fa-laptop-code"></i> Programming Languages:  <mark>C/C++</mark>, <mark>MATLAB</mark>, <mark>Python</mark>
   
-  <i class="fas fa-user-astronaut"></i> Skills: <mark>Linux</mark>, <mark>Robotics</mark>, <mark>Computer Vision</mark>, <mark>PLC Automation</mark>, <mark>Backend Web</mark>, <mark>Data Scraping</mark>, <mark>Support Engineer</mark> <mark>Physical Network</mark> 
+  <i class="fas fa-user-astronaut"></i> Skills: <mark>Linux</mark>, <mark>PenTest</mark>, <mark>Support Engineer</mark>, <mark>Cisco IOS</mark>, <mark>Embedded Systems</mark>
   
-  ![alt text](/images/2meall.PNG "CR")
+  ![alt text](/images/All_v1.PNG "CR")
 
 
 content:
@@ -59,122 +59,87 @@ content:
     layout: list
     content:
       - layout: left
-        title: DIVERSA - ESD
-        sub_title: Electronic Systems Development Internship
-        caption: (March - July 2018)
-        link: https://www.diversa-esd.com/
+        title: ULTRANIC
+        sub_title: Electronic Security Systems Impelementer Internship
+        caption: (August - October 2018)
+        link: https://ultranic.online.com.ni/
         quote: >
-          Created to develop the appropriate system to solve your problem.
+          Implement solutions on Electronic security systems for end customer.
         description: | # this will include new lines to allow paragraphs
-          - Programming microcontrollers using C. 
-          - Development of PCB boards
+          - Installation of IP Cameras. 
+          - Development of Fire protection systems
       - layout: left
-        title: TECNODIAGNOSTICA S.A.
-        sub_title: Technical support engineer
-        caption: (February - September 2019)
-        link: http://tecnodiagnostica.com/
+        title: VINET TECHNOLOGY ADVISORY
+        sub_title: Consulting engineer
+        caption: (August 2020 - present)
+        link: https://www.vinet.co.cr/
         quote: >
-          Integral solutions for laboratories
+          IT Solutions from Collaboration to Networking and Security solutions
         description: | # this will include new lines to allow paragraphs
-          - Support engineer for specialized medicine systems and equipment. 
-      - layout: left
-        title: SCISA
-        sub_title: Automation Specialist
-        caption: (September 2019 - August 2020)
-        link: http://scisa.com.ni/
-        quote: >
-          Engineering designs and industrial automation
-        description: | # this will include new lines to allow paragraphs
-          - Automation project development and programming engineer.
-          - Programming of control systems, usually using Siemens and Allen Bradley PLCs.
-      - layout: left
-        title: Bluefields Technologies S.A
-        sub_title: Technical support engineer
-        caption: (August 2020 - Present)
-        link: 
-        quote: >
-           
-        description: | # this will include new lines to allow paragraphs
-          - Support engineer for specialized equipment on x-ray detection systems.
-          - IT Support engineer.
-      - layout: left
-        title: LOKAFY (Ontario, Canada)
-        sub_title: Freelance Backend developer 
-        caption: (January 2021 - August 2021)
-        link: https://lokafy.com/
-        quote: >
-          Bring the World Closer Together
-        description: | # this will include new lines to allow paragraphs
-          - API Development using Sails and Django.
-          - Data scraping
+          - Support engineer for Servers, Network devices, security endpoints.
+          - Designer of IT solutions for End Customer.
+          - Postsell's task such as, deploy and configuration of solution.
   - title: Academic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Electrocardiograph
-        link: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
-        link_text: EKG
+        title: TrazabNic
+        link: https://github.com/Gerard-170/TrazabNic
+        link_text: TZN
         additional_links:
           - title:  Github page for project
             icon: fab fa-github
-            url: https://github.com/myalfred03/EKG-PIC18F-AD620-SMD
+            url: https://github.com/Gerard-170/TrazabNic
           - title:  Repo page for project
             icon: fas fa-atlas
-            url: https://revistas.usac.edu.gt/index.php/cytes/article/view/297
+            url: https://github.com/Gerard-170/TrazabNic/blob/master/2Poster_STFEC_2_2017.pdf
         quote: >
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
-          Electrocardiograph capable of recording and transmitting data, using the Bluetooth communication protocol, to a computer. Microcontroller technology was used to implement the electrocardiograph and LABVIEW to develop the program to receive and process data in order to show the electrocardiogram in the computer screen. Data are stored in an EEPROM memory for further analysis. <mark>2nd place project automation category.</mark> in <mark>TECNO – UNI</mark> 
+          RFID TAG READER implemented for accounting and managing of livestock, with the purpose to help rancher administrate their stock in a better way. This project was presented at FEC winning the first place in its category.</mark> in <mark>FEC – UNI</mark> 
       - layout: left
-        title: Virtual laboratory of Robotics
-        link: https://github.com/myalfred03/rvizglabre/
-        link_text: LVR
+        title: Structural Health Monitoring System for Highway Bridges
+        link: https://github.com/Gerard-170/SHM_FDD
+        link_text: SHM
         additional_links:
           - title:  Github page for project
             icon: fab fa-github
-            url: https://github.com/myalfred03/rvizglabre
+            url: https://github.com/Gerard-170/SHM_FDD
           - title:  Repo page for project
             icon: fas fa-atlas
-            url: http://ribuni.uni.edu.ni/3038/ 
+            url: 
         quote: >
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
-          The laboratory was developed with the Robotic Operating System (ROS) as its fundamental element, which has become a de facto standard for professionals dedicated to the development of robotic systems. ROS has many software tools and simulators that allow the analysis of a robotic application, whether it is real or simulated. <mark>1st place Best international project.</mark> in <mark>Second Technological Week Honduras</mark>
+          SHM_FDD is an embedded appliance of Frecuency Domain Decomposition (FDD) for Structural Health Monitoring (SHM) applying Output Only philosophy with an approach on Modal Identification, Modal Shapes and Modal, Assurance Criterion (MAC).</mark> in <mark>TECNO UNI 2021</mark>
   - title: Education
     layout: list
     content:
       - layout: left
         title:  UNI
         sub_title: Electronics engineer
-        caption: (2013 - 2017)
+        caption: (2015 - 2019)
         quote: >
           Universidad Nacional de Ingeniería
         description: | # this will include new lines to allow paragraphs
       - layout: left
         title:  ANI
-        sub_title: English Technical and intermediate competence.
-        caption: (2017)
+        sub_title: English as a second language.
+        caption: (2016 - 2020)
         quote: >
-          Academia de idiomas
+          Universidad Centroamericana
         description: | # this will include new lines to allow paragraphs
       - layout: left
-        title:  EDx
-        sub_title: Introduction to Cloud Infrastructure Technologies
-        caption: (2019)
+        title:  CCNA Routing and Switching
+        sub_title:  Networking concepts, security, architecture, pricing, and support
+        caption: (2020 - 2023)
         quote: >
-          The Linux Foundation
-        description: | # this will include new lines to allow paragraphs
-      - layout: left
-        title:  AWS Cloud Practitioner
-        sub_title: AWS Cloud concepts, core AWS services, security, architecture, pricing, and support
-        caption: (2021)
-        quote: >
-          aws.training
+          Cisco.training
         description: | # this will include new lines to allow paragraphs
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I enjoy reading books with futuristic concepts and classic science fiction. I like to learn about astronomy every day, currently I have my own telescope. The concept that we are: *"Speck of dust suspended in a ray of sunlight"* teaches me humility.
+      I enjoy reading books and listen to melodic music. I'm participating for ONGs as volunteer on social projects one of them on my birthplace we help children with school materials.
 
 # Footer
 footer_show_references: true
