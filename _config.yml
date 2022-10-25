@@ -90,7 +90,7 @@ content:
       - layout: left
         title: Bluefields Technologies S.A
         sub_title: Technical support engineer
-        caption: (August 2020 - Present)
+        caption: (August 2020 - November 2021)
         link: 
         quote: >
            
@@ -107,6 +107,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           - API Development using Sails and Django.
           - Data scraping
+          
+       - layout: left
+        title: Calibre Mining Corp
+        sub_title: IT Coordinator
+        caption: (December 2021 - Present)
+        link: https://www.calibremining.com/
+        quote: >
+          .
+        description: | # this will include new lines to allow paragraphs
+          - Network development engineer
+          - Servers Maintain     
+         
+         
   - title: Academic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
