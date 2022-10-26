@@ -108,7 +108,7 @@ content:
           - API Development using Sails and Django.
           - Data scraping
           
-       - layout: left
+      - layout: left
         title: Calibre Mining Corp
         sub_title: IT Coordinator
         caption: (December 2021 - Present)
