@@ -184,6 +184,13 @@ content:
         quote: >
           aws.training
         description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title:  Data analysis in Power BI
+        sub_title: Transforming the data, create data models, visualize data, and share assets by using Power BI
+        caption: (2023)
+        quote: >
+          TECNASA U Learning Centers
+        description: | # this will include new lines to allow paragraphs        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
